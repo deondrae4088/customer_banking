@@ -1,7 +1,9 @@
-""" Create a Account class with methods"""
+"""a Account class with methods"""
+
 
 class Account:
     """Creating an Account class with methods"""
+
     def __init__(self, balance, interest):
         self.balance = balance
         self.interest = interest
